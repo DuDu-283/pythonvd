@@ -1,0 +1,13 @@
+# Chương trình tính tổng hai số
+
+# Yêu cầu người dùng nhập số thứ nhất
+so_1 = float(input("Nhập số thứ nhất: "))
+
+# Yêu cầu người dùng nhập số thứ hai
+so_2 = float(input("Nhập số thứ hai: "))
+
+# Tính tổng hai số
+tong = so_1 + so_2
+
+# In kết quả
+print("Tổng của hai số là:", tong)
